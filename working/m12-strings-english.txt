@@ -496,7 +496,7 @@
 ^L498^[7B FF][1C FF 4A 00 _L2890_][1C FF 47 00 _L2891_]@Hot springs[01 FF]  make happy...![02 FF]@Happy happy![01 FF]  Ding ding![02 FF]@Jump in[01 FF]  hot spring![1D FF][7C FF][00 FF]
 ^L499^[7B FF][1C FF 4A 00 _L2902_][1C FF 47 00 _L2903_]@Lots of[01 FF]  friends...[02 FF]@Taken[01 FF]  behind falls...[02 FF]@Why?  Why?[01 FF]  Boing![1D FF][7C FF][00 FF]
 ^L500^[7B FF][1C FF 49 00 _L2904_][1C FF 4A 00 _L2905_][1C FF 47 00 _L2906_]@Threed is[01 FF]  zombie full![02 FF]@I saw![01 FF]  Bad stink[01 FF]  behind falls![02 FF]@Zoom![1D FF][7C FF][00 FF]
-^L501^[7B FF]@Drink coffee[01 FF]  before go?[02 FF]@Say yes[01 FF]  to me?[02 FF]@Say no[01 FF]  to me?[7C FF][03 FF 00 00][04 FF _L2909_][05 FF _L2910_]^L2910^[7B FF]@Why you[01 FF]  say no?[1D FF][7C FF][00 FF]^L2909^[7B FF]@Why you[01 FF]  say no?[1D FF][7C FF][C6 FF][1C FF DC 00 _L2197_][86 FF _L2911_][C4 FF 00 5C][FC FF 01 00][C5 FF][00 FF]
+^L501^[7B FF]@Drink coffee[01 FF]  before go?[02 FF]@Say yes[01 FF]  to me?[02 FF]@Say no[01 FF]  to me?[7C FF][03 FF 00 00][04 FF _L2909_][05 FF _L2910_]^L2910^[7B FF]@Why you[01 FF]  say no?[1D FF][7C FF][00 FF]^L2909^[7B FF]@Bottoms up![01 FF]  Boing![1D FF][7C FF][C6 FF][1C FF DC 00 _L2197_][86 FF _L2911_][C4 FF 00 5C][FC FF 01 00][C5 FF][00 FF]
 ^L502^[7B FF][1C FF 47 00 _L2912_]@Why?  Why?[02 FF]@You no[01 FF]  go to[01 FF]  hot springs...[02 FF]@Boo boo's.[1D FF][00 FF]
 ^L503^[7B FF]@Oh!  Oh![01 FF]  *wheeze*[02 FF]@Breathe is[01 FF]  sooooo[01 FF]  good![1D FF][7C FF][00 FF]
 ^L504^[7B FF]@I think[01 FF]  new things...[02 FF]@Difficult[01 FF]  things...[01 FF]  from now...[1D FF][7C FF][00 FF]
