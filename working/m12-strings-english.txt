@@ -336,7 +336,7 @@
 ^L338^
 ^L339^
 ^L340^
-^L341^
+^L341^@(There's no response.)[1D FF][00 FF]
 ^L342^
 ^L343^
 ^L344^
@@ -482,82 +482,82 @@
 ^L484^
 ^L485^
 ^L486^
-^L487^
-^L488^
-^L489^
+^L487^[1C FF C1 00 _L2156_][BC FF 01 00][86 FF _L2177_][81 FF _L2380_][C4 FF 00 9B]@You finally got here.[02 FF]@This is the third <Your[01 FF]  Sanctuary> location.[1B FF 14 00] But it's[01 FF]  mine now.[02 FF]@Take it from me,[1B FF 1E 00] if you dare...[02 FF][86 FF _L2876_][81 FF _L2161_][85 FF C1 02 08 00][1B FF 78 00][08 FF C1 00][00 FF]
+^L488^[7B FF]@I escaped.[02 FF]@Zoom![02 FF]@Buurp![02 FF]@Boing![02 FF]@Goody![02 FF]@Buuurp![1D FF][7C FF][00 FF]
+^L489^[7B FF]@You worn[01 FF]  down?[02 FF]@Ahhh...[01 FF]  Boing![83 FF 75 02][82 FF _L2936_][83 FF D6 00][82 FF _L2937_]^L2936^[1D FF][7C FF][00 FF]
 ^L490^[86 FF _L2877_][00 FF]
-^L491^
+^L491^[7B FF][1C FF 0A 00 _L2880_]@Do you want[01 FF]  slumber?[7C FF][03 FF 03 00][04 FF _L2881_][05 FF _L2882_]^L2882^[7B FF]@Kay-o.[1D FF][7C FF][00 FF]^L2881^[7B FF]@Kay-o.[02 FF][C6 FF][7C FF][86 FF _L2883_][86 FF _L2185_][14 FF 6D 00][08 FF 0A 00][00 FF]
 ^L492^[86 FF _L2884_][00 FF]
 ^L493^[86 FF _L2885_][00 FF]
 ^L494^[08 FF F9 00][86 FF _L4325_][09 FF F9 00][00 FF]
 ^L495^[86 FF _L5295_][00 FF]
-^L496^
-^L497^
-^L498^
-^L499^
-^L500^
-^L501^
-^L502^
-^L503^
-^L504^
-^L505^
-^L506^
-^L507^
-^L508^
-^L509^
-^L510^
-^L511^
-^L512^
-^L513^
-^L514^
-^L515^
-^L516^
-^L517^
-^L518^
+^L496^[7B FF][1C FF 4A 00 _L2886_][1C FF 47 00 _L2887_]@We feel[01 FF]  groove![02 FF]@Hi ho.[01 FF]  Me[01 FF]  Mr. Saturn.[02 FF]@This place,[01 FF]  all are[01 FF]  Mr. Saturn.[1D FF][7C FF][00 FF]
+^L497^[7B FF][1C FF 4A 00 _L2888_][1C FF 47 00 _L2889_]@Once upon[01 FF]  a time,[02 FF]@we were[01 FF]  many, many.[02 FF]@Everyday,[01 FF]  slowly[02 FF]@are[01 FF]  less, less.[02 FF]@Why?  Hmmmm...[01 FF]  Boing![1D FF][7C FF][00 FF]
+^L498^[7B FF][1C FF 4A 00 _L2890_][1C FF 47 00 _L2891_]@Hot springs[01 FF]  make happy...![02 FF]@Happy happy![01 FF]  Ding ding![02 FF]@Jump in[01 FF]  hot spring![1D FF][7C FF][00 FF]
+^L499^[7B FF][1C FF 4A 00 _L2902_][1C FF 47 00 _L2903_]@Lots of[01 FF]  friends...[02 FF]@Taken[01 FF]  behind falls...[02 FF]@Why?  Why?[01 FF]  Boing![1D FF][7C FF][00 FF]
+^L500^[7B FF][1C FF 49 00 _L2904_][1C FF 4A 00 _L2905_][1C FF 47 00 _L2906_]@Threed is[01 FF]  zombie full![02 FF]@I saw![01 FF]  Bad stink[01 FF]  behind falls![02 FF]@Zoom![1D FF][7C FF][00 FF]
+^L501^[7B FF]@Drink coffee[01 FF]  before go?[02 FF]@Say yes[01 FF]  to me?[02 FF]@Say no[01 FF]  to me?[7C FF][03 FF 00 00][04 FF _L2909_][05 FF _L2910_]^L2910^[7B FF]@Why you[01 FF]  say no?[1D FF][7C FF][00 FF]^L2909^[7B FF]@Bottoms up![01 FF]  Boing![1D FF][7C FF][C6 FF][1C FF DC 00 _L2197_][86 FF _L2911_][C4 FF 00 5C][FC FF 01 00][C5 FF][00 FF]
+^L502^[7B FF][1C FF 47 00 _L2912_]@Why?  Why?[02 FF]@You no[01 FF]  go to[01 FF]  hot springs...[02 FF]@Boo boo's.[1D FF][00 FF]
+^L503^[7B FF]@Oh!  Oh![01 FF]  *wheeze*[02 FF]@Breathe is[01 FF]  sooooo[01 FF]  good![1D FF][7C FF][00 FF]
+^L504^[7B FF]@I think[01 FF]  new things...[02 FF]@Difficult[01 FF]  things...[01 FF]  from now...[1D FF][7C FF][00 FF]
+^L505^[1C FF 49 00 _L2913_][1C FF 86 00 _L2914_][1C FF 84 00 _L2915_][1C FF 4A 00 _L2916_][8D FF 01 00][A8 FF 00]@Ah, [90 FF 00][1A FF 01 00].[02 FF]^L2915^@The Phase Distorter will[01 FF]  certainly be completed[01 FF]  someday,[02 FF]@in my humble opinion.[1D FF][00 FF]
+^L506^[1C FF 49 00 _L2917_][1C FF FD 02 _L2918_][1C FF 86 00 _L2919_][1C FF 84 00 _L2920_]@Yahah!  The Mr. Saturns are[01 FF]  incredible folk.[02 FF]@And the Apple Kid...  He is a[01 FF]  most exceptional young man,[02 FF]@very different from other kids.[02 FF]@...Well, anyway...[1B FF 14 00] The prototype[01 FF]  Phase Distorter has been[01 FF]  stolen.[02 FF]@Someone resembling a pig[01 FF]  wearing clothes took Mr.[01 FF]  Saturn captive[02 FF]@and stole the device![1D FF][C6 FF][1B FF 01 00][A1 FF E5 02 4F 02][00 FF]
+^L507^[1C FF 49 00 _L2925_][1C FF 4A 00 _L2926_]^L2927^@The Apple Kid was lost, and he[01 FF]   was just wandering around, so[01 FF]  I brought him here.[02 FF]@That was quite a while ago...[1B FF 14 00][01 FF]  Would you like some tea? [02 FF]@Ah,[1B FF 0F 00] I see that you're busy.[02 FF]@It looks like things are pretty[01 FF]  rough.[1B FF 14 00]  You take care now...[1D FF][08 FF 9C 02][00 FF]
+^L508^[7B FF]@Happy.[01 FF]  Boing.[02 FF]@More happy.[01 FF]  Ding[01 FF]  ding.[02 FF]@Much more[01 FF]  Happy.[01 FF]  Boo boo's.[02 FF]@Big big[01 FF]  happy.[01 FF]  Zooooom![1D FF][7C FF][00 FF]
+^L509^[7B FF]@Was scared.[02 FF]@Now kay-o.[01 FF]  I strong.[02 FF]@Boing![1D FF][7C FF][00 FF]
+^L510^[7B FF][1C FF 49 00 _L2938_]@Longer[01 FF]  ladder![02 FF]@Can[01 FF]  go to[01 FF]  hot springs![1D FF][7C FF][00 FF]
+^L511^@It was in Winters that we last[01 FF]  met?[02 FF]@I just got here.  Tee tee tee.[1D FF][00 FF]
+^L512^@It was fun hanging out[01 FF]  together.[1D FF][00 FF]
+^L513^[7B FF][1C FF 4A 00 _L2892_][1C FF AD 00 _L2893_][1C FF 47 00 _L2894_]@We look[01 FF]  like same![02 FF]@I give you[01 FF]  special[01 FF]  thing.[02 FF]@Not now,[01 FF]  Zoom![02 FF]@I give you[01 FF]  on the way[01 FF]  back, boing![02 FF]@Bye later![80 FF _L2895_]
+^L514^[7B FF][1C FF 4A 00 _L2900_][1C FF 47 00 _L2901_]@Scary, scary[01 FF]  guy, boing![02 FF]@Grapefruit[01 FF]  Falls![02 FF]@Scary, sick,[01 FF]  barfy...[02 FF]@Go and...[01 FF]  la la la![02 FF]@Ding![01 FF]  Scary![1D FF][7C FF][00 FF]
+^L515^[7B FF][1C FF 49 00 _L2907_][1C FF 47 00 _L2908_]@Base...[01 FF]  secret.[02 FF]@Base behind[01 FF]  Grapefruit[01 FF]  Falls.[02 FF]@Password?[01 FF]  I tell.[02 FF]@Belch man[01 FF]  say[02 FF]@"Say[01 FF]  password."[02 FF]@Then[01 FF]  stand still,[02 FF]@wait for[01 FF]  three[01 FF]  minutes.[D4 FF 72 00][1B FF 78 00][1D FF][08 FF 83 00][7C FF][00 FF]
+^L516^[7B FF]@So Boing![01 FF]  You have[01 FF]  380 dollars,[02 FF]@we trade[01 FF]  <Secret[01 FF]  herb.>[02 FF]@So Boing![02 FF]@You have[01 FF]  1780 dollars,[02 FF]@we trade[01 FF]  <Horn of life.>[1D FF][7C FF][00 FF]
+^L517^[7B FF]@(Hot[01 FF]  springs...[01 FF]  Rest here.)[1D FF][7C FF][00 FF]
+^L518^[7B FF]@Hole[01 FF]  <Milky Well.>[02 FF]@What this...[01 FF]  Ding![02 FF]@Ding![1D FF][7C FF][00 FF]
 ^L519^[8D FF 01 00][87 FF][86 FF _L5500_][D4 FF 10 00][CE FF E8 02 01 00][02 FF][1C FF 99 02 _L5508_][BC FF F7 00][A8 FF 01][86 FF _L5492_][91 FF FF][82 FF _L5514_][87 FF][86 FF _L5495_][93 FF 00 00][87 FF][D4 FF 74 00][1B FF 1E 00][08 FF 99 02][00 FF]
 ^L520^[8D FF 01 00][87 FF][86 FF _L5500_][D4 FF 10 00][CE FF E9 02 01 00][02 FF][1C FF 9A 02 _L5508_][BC FF F8 00][A8 FF 01][86 FF _L5492_][91 FF FF][82 FF _L5515_][87 FF][86 FF _L5495_][93 FF 00 00][87 FF][D4 FF 74 00][1B FF 1E 00][08 FF 9A 02][00 FF]
 ^L521^[8D FF 01 00][87 FF][86 FF _L5500_][D4 FF 10 00][CE FF EA 02 01 00][02 FF][1C FF 9B 02 _L5508_][BC FF F9 00][A8 FF 01][86 FF _L5492_][91 FF FF][82 FF _L5516_][87 FF][86 FF _L5495_][93 FF 00 00][87 FF][D4 FF 74 00][1B FF 1E 00][08 FF 9B 02][00 FF]
 ^L522^[86 FF _L2943_][00 FF]
-^L523^
+^L523^[1C FF 7F 01 _L5089_][BB FF 46][87 FF]@We are also running an inn,[01 FF]  mister.[02 FF]@It's $[B8 FF 00][1A FF 04 00] a night if[01 FF]  you want to stay here.[02 FF]@Do you want to stay?[86 FF _L2492_][04 FF _L5090_][05 FF _L5091_]^L5091^@That's probably for the best.[02 FF]@You see... our beds are really[01 FF]  old and dusty.[1D FF][00 FF]
 ^L524^[86 FF _L5296_][00 FF]
-^L525^
-^L526^
-^L527^
-^L528^
-^L529^
-^L530^
-^L531^
-^L532^
-^L533^
-^L534^
-^L535^
-^L536^
-^L537^
-^L538^
-^L539^
-^L540^
+^L525^@It's a small house, but please[01 FF]  stay the night.[02 FF][86 FF _L2883_][86 FF _L2184_][86 FF _L2185_][14 FF 35 00][1C FF F5 02 _L2944_][00 FF]
+^L526^@This traffic jam is taking[01 FF]  forever.[02 FF]@...Man, do I need to go...[1D FF][00 FF]
+^L527^@I heard that a little ways ahead[01 FF]  a herd of buffalo is running[01 FF]  across the road.[02 FF]@I can't move an inch![1D FF][00 FF]
+^L528^@I feel sorry for the guys behind[01 FF]  me, but I'm so bent,[02 FF]@I'm leaving my car here and[01 FF]  walking instead![1D FF][00 FF]
+^L529^@I was going to see my girlfriend[01 FF]  in Fourside...[02 FF]@At this pace I'll be 100 years[01 FF]  old by the time I get there![1D FF][00 FF]
+^L530^@We sleep in the desert, so[01 FF]  we're often mistaken for[01 FF]  corpses.[02 FF]@But a corpse doesn't usually[01 FF]  wear a bathing suit, right?[02 FF]@...Hey,[1B FF 0F 00] stop staring at my tan[01 FF]  lines...[1B FF 14 00] Go away.[1D FF][00 FF]
+^L531^@Annoying kids...[1B FF 14 00]  What a group[01 FF]  of brats!...[02 FF]@Scat, you little monsters![1D FF][00 FF]
+^L532^[1C FF F5 02 _L2947_][1C FF 5A 00 _L2947_][1C FF 48 00 _L2948_][1C FF 89 00 _L2949_]@This hole's great![1B FF 14 00]  Good hole, [01 FF]  good hole, good hole...[02 FF]@First,[1B FF 0F 00] someone asked me to dig[01 FF]  for buried gold.[02 FF]@I began to feel like I was[01 FF]  obligated to find it.[02 FF]@Man, am I starving.[02 FF]@Do you have any food you can[01 FF]  spare?[86 FF _L2485_][04 FF _L2950_][05 FF _L2951_]^L2951^@The humanitarian thing is to[01 FF]  help people out when they're[01 FF]  hungry.[02 FF]@Although I hate it, Pizza would[01 FF]  work for me...[80 FF _L2952_]
+^L533^[1C FF 5A 00 _L2955_]@I've been watching them dig for[01 FF]  a while...[1B FF 14 00]  I wonder what they'll[01 FF]  find.[1D FF][00 FF]
+^L534^[1C FF 5A 00 _L2955_]@If they have a live broadcast[01 FF]  from the dig,[02 FF]@I can check out the dig while[01 FF]  relaxing on the floor.[1D FF][00 FF]
+^L535^[1C FF 5A 00 _L2955_]@I think he should dig somewhere[01 FF]  else.[1D FF][00 FF]
+^L536^[1C FF 5A 00 _L2955_]@I have lots of work to do, but I[01 FF]  can't seem to move.[02 FF]@I'm so curious about the dig.[1B FF 14 00][01 FF]  I can't help it.[1D FF][00 FF]
+^L537^@I'm big brother Pancho.[1D FF][00 FF]
+^L538^@I'm kid brother Pincho.[1D FF][00 FF]
+^L539^@I'm Tomas Jefferson.[1D FF][00 FF]
+^L540^@As sea monkeys live in the[01 FF]  sea...[1B FF 14 00] desert monkeys live in[01 FF]  the dessert.[02 FF]@I mean desert, not dessert![02 FF]@I am happy that there are[01 FF]  animals in the desert, aren't[01 FF]  you?[1D FF][00 FF]
 ^L541^[86 FF _L2984_][00 FF]
-^L542^
-^L543^
-^L544^
-^L545^
+^L542^[BC FF 01 00][86 FF _L2177_][81 FF _L4149_]@[0D FF]! Greetings![02 FF]^L4151^@I'm George,[1B FF 0F 00] Gerardo[01 FF]  Montague's brother.[02 FF]@Gerardo is in his mine,[02 FF]@but he hasn't found any buried[01 FF]  treasure yet.[02 FF]@We did, however,[1B FF 0F 00] find a[01 FF]  Diamond instead.[02 FF]@Gerardo told me to give it to[01 FF]  [0D FF].[02 FF]@Here it is... please take it.[02 FF][91 FF FF][82 FF _L4150_][01 FF][93 FF 00 A8][86 FF _L2238_][02 FF][08 FF 5A 00]@Well, I've got to go...[02 FF]@I'm busy working at the other[01 FF]  mine...[1B FF 0F 00] busy, busy, busy![02 FF][C6 FF]^L4152^[09 FF 10 01][A3 FF 02 03][9E FF][9E FF][C4 FF 00 55][A1 FF 1B 03 81 01][9E FF][C5 FF][09 FF 0B 00][09 FF 37 00][FC FF 34 00][00 FF]
+^L543^@Kukkukukku[02 FF]@(Welcome!)[02 FF]@Kikikiykki[02 FF]@(Our paradise exists beneath[01 FF]  that hole.)[02 FF]@Kuykku kikki...[02 FF]@(Talah Rama is great and[01 FF]  kind...)[02 FF]@Kikki Kuykku[02 FF]@(and he knows everything,[01 FF]  Talah Rama does...)[02 FF]@Kikku Kuekki[02 FF]@(He made us the underground[01 FF]  rooms...)[1D FF][00 FF]
+^L544^@Hikikki.[02 FF]@(Follow me,[1B FF 0F 00] like this way.)[1D FF][C6 FF][A1 FF 04 03 29 02][00 FF]
+^L545^[1C FF 13 01 _L3059_][BC FF 01 00][86 FF _L2177_][81 FF _L3060_][1C FF 02 00 _L3061_]^L3062^@Kyakya Kyokyo[02 FF]@(Okay,[1B FF 0F 00] I'll do a teacher's[01 FF]  demonstration.)[02 FF]@Kyakyakya Kyakkya[02 FF]@(If you can learn this,[1B FF 0F 00] you can[01 FF]  go anywhere you've been[01 FF]  previously.)[02 FF]@Kyakkyaki kiki[02 FF]@(You can go there instantly.)[02 FF]@Kyakki Kyaki[02 FF]@(This skill can't be used in a[01 FF] room or underground, though.)[02 FF][C6 FF][A1 FF 05 03 2A 02][9E FF][A4 FF 05 03][C4 FF 00 0D][A3 FF 05 03][9E FF][A4 FF 05 03][C5 FF][A3 FF 05 03][9E FF][A1 FF 05 03 0C 00][DB FF 05 03 01 00 FF 00][CE FF 05 03 00 00][1B FF 1E 00]@Ukkie[02 FF]@(I went to Fourside and[01 FF]  returned.)[02 FF]@Kyaakyakkya[02 FF]@(I showed you the basic,[01 FF]  straight course,[02 FF]@but you can also build up enough[01 FF]  speed while turning, if you have[01 FF]  enough room.)[02 FF]@Ukkikie[02 FF]@(Okay![1B FF 0F 00]  Why don't you try it,[01 FF]  young man!)[1D FF][C6 FF][08 FF 02 00][FC FF 1C 00][00 FF]
 ^L546^[08 FF E5 00][86 FF _L5392_][09 FF E5 00][00 FF]
 ^L547^[86 FF _L5299_][00 FF]
-^L548^
+^L548^@(I lost a pair of contact lenses[01 FF]  here in the Dusty Dunes Desert.[02 FF]@They were a momento from my[01 FF]  grandma, and very important to[01 FF]  me.[02 FF]@If you find them, bring them to[01 FF]  me and I'll give you a reward.[02 FF]@I'm Penetella Giovanni.[02 FF]@Find me at the Fourside Bakery,[01 FF]  second floor.)[1C FF E0 02 _L2946_][1D FF][00 FF]
 ^L549^[86 FF _L2956_][00 FF]
-^L550^
-^L551^
-^L552^
-^L553^
-^L554^
+^L550^@(...I'm just a pile of bleached[01 FF]  bones.[1B FF 14 00] I can't talk.)[1D FF][00 FF]
+^L551^@(Even though I'm just a pile of[01 FF]  bones,[02 FF]@I can talk and I'm lonely out[01 FF]  here in the desert.)[1D FF][00 FF]
+^L552^@(Why would you feel like talking[01 FF]  to a tiny black sesame like me.[02 FF]@I wanna apologize to the white[01 FF]  sesame that I hurt before.[02 FF]@If I could just see her.)[1C FF 8A 00 _L2981_][1D FF][C6 FF][08 FF 87 00][1C FF C6 02 _L2197_][1B FF 3C 00][86 FF _L1671_][00 FF]
+^L553^@(I heard that the black sesame[01 FF]  I used to love is somewhere in[01 FF]  this desert.[02 FF]@If you see him,[1B FF 0F 00] please tell him[01 FF]  that I still love him.)[1C FF 87 00 _L2982_][08 FF 8A 00][1D FF][00 FF]
+^L554^@Welcome to the very end of the[01 FF]  world's longest traffic jam![1D FF][00 FF]
 ^L555^[86 FF _L1859_][00 FF]
-^L556^
-^L557^
-^L558^
-^L559^
-^L560^
-^L561^
-^L562^
+^L556^[83 FF 88 00][82 FF _L4091_][86 FF _L4092_][81 FF _L4068_][8D FF 01 00][A8 FF 00]@([90 FF 00][1A FF 01 00] checked[01 FF]  the bus schedule.[02 FF][1C FF 0A 00 _L4069_]@It looks like the next bus will[01 FF]  come pretty soon.)[02 FF][C6 FF][A0 FF 5F 01 58 01 01 00][9E FF][08 FF 0A 00][00 FF]
+^L557^[83 FF 88 00][82 FF _L4091_][86 FF _L4094_][81 FF _L4068_][8D FF 01 00][A8 FF 00]@([90 FF 00][1A FF 01 00] checked[01 FF]  the bus schedule.[02 FF][1C FF 0A 00 _L4069_]@It looks like the next bus will[01 FF]  come pretty soon.)[02 FF][C6 FF][A0 FF 5F 01 4C 01 01 00][9E FF][08 FF 0A 00][00 FF]
+^L558^@(Dusty Dunes Headquarters for[01 FF]  finding buried gold.)[1D FF][00 FF]
+^L559^[8D FF 01 00][A8 FF 00]@[90 FF 00][1A FF 01 00] spotted[01 FF]  something shiny.[02 FF]@It was a set of contact lenses![22 FF][91 FF FF][82 FF _L2983_][01 FF][93 FF FF 97][85 FF 1A 03 06 00][86 FF _L2233_][08 FF 81 01][1D FF][00 FF]
+^L560^@.....[1D FF][00 FF]
+^L561^@Kyakkyekyaekya Kyikkya[02 FF]@(Talah Rama is now fasting[01 FF]  and)[02 FF]@Kyakkyakyekyakya[02 FF]@(practicing silent meditaion,[02 FF]@he is also abstaining from[01 FF]  anything that would make him[01 FF]  sick or smelly too.)[02 FF]@Kyapi Kyapi[02 FF]@(Please don't bother him.)[1D FF][00 FF]
+^L562^[1C FF C4 01 _L3014_]@Kikiki Kiki![02 FF]@(I wanna eat a Picnic lunch!)[02 FF]@Kikiki Kiki[02 FF]@(If you grant my wish,[1B FF 0F 00] I might[01 FF]  open the entrance.)[02 FF]@Kikiki Kiki?[02 FF]@(Will you give me a Picnic lunch?)[86 FF _L2485_][04 FF _L3015_][05 FF _L3016_]^L3016^@Kikiki Kiki![02 FF]@(I wanna eat a Picnic lunch!)[1D FF][00 FF]
 ^L563^
 ^L564^
 ^L565^
@@ -636,24 +636,24 @@
 ^L638^
 ^L639^
 ^L640^
-^L641^
-^L642^
-^L643^
-^L644^
-^L645^
-^L646^
-^L647^
-^L648^
+^L641^@I was in the middle of a caffeine[01 FF]  buzz,[02 FF]@and I had to get to the[01 FF]  bathroom fast![02 FF]@When I got there,[02 FF]@I accidentally knocked on the[01 FF]  wall instead of the restroom[01 FF]  door...[02 FF]@The next thing I knew, someone[01 FF]  asked <Who is it?> and really[01 FF]  surprised me![02 FF]@Maybe I just imagined it?...[1D FF][00 FF]
+^L642^[1C FF 8F 00 _L3140_]@I used to be Monotoli's[01 FF]  employer.[02 FF]@Then I realized his schemes[01 FF]  made my company go bankrupt.[02 FF]@My house and land were taken[01 FF]  away...[02 FF]@Now I'm homeless...[02 FF]@Monotoli didn't used to be so[01 FF]  powerful.[02 FF]@I want to find out his secrets,[01 FF]  so I'm spending my time here,[02 FF]@watching to see if he ever[01 FF]  drops in.[1D FF][00 FF]
+^L643^@Wheeee![1B FF 14 00]  Hic![02 FF]@[0D FF].[02 FF]@Pokey left me, his own dad, and[01 FF]  just disappeared.[02 FF]@If you see him, tell him that he[01 FF]  should take better care of his[01 FF]  father.[02 FF]@Don't tell my wife in Onett that[01 FF]  I've been spending my time[01 FF]  here.[02 FF]@Hic![1B FF 0F 00]  Wheeeee![1D FF][00 FF]
+^L644^@Seems like it's just for[01 FF]  decoration.[1D FF][00 FF]
+^L645^[1C FF 8F 00 _L3204_]@(You were wandering around[01 FF]  the warehouse with a vacant,[01 FF]  far away look in your eyes.[02 FF]@Were you daydreaming?)[1D FF][00 FF]
+^L646^@(It is a golden statue that you[01 FF]  have seen before.)[02 FF][86 FF _L3437_][81 FF _L2161_][1B FF 01 00][86 FF _L2200_][08 FF 3B 00][08 FF 4B 00][14 FF 41 00][FC FF 05 00][EA FF FF 00][1B FF 14 00]^L646^@(The Mani Mani statue was[01 FF]  actually a device that created[01 FF]  illusions.[02 FF]@The illusion device was[01 FF]  destroyed.)[1D FF][C6 FF][7E FF 05 00][EB FF FF 00][00 FF]
+^L647^[1C FF 00 03 _L3141_]@The Dinosaur Museum doesn't[01 FF]  have any real dinosaurs...[1B FF 14 00][01 FF]  They're all replicas.[02 FF]@I'm sure everyone knows that.[02 FF]@If you still want to go see the[01 FF]  dinosaurs,[02 FF]@pay 5 dollars apiece for the[01 FF]  entrance fee.[1B FF 14 00]  Is that okay?[22 FF][9C FF][03 FF 00 00][04 FF _L3142_][05 FF _L3143_]^L3143^[BB FF 05][87 FF]@Maybe you think [B8 FF 00][1A FF 04 00][01 FF]  dollars is too much.[02 FF]@Or are you just not interested[01 FF]  in dinosaurs.[1B FF 14 00]  You're strange,[01 FF]  kid![1D FF][00 FF]^L3142^[BB FF 05][87 FF][99 FF 00 00 00 00][81 FF _L3144_][D4 FF 76 00][1B FF 01 00][9B FF 00 00 00 00][9C FF]@Please enter.[1B FF 14 00]  You'll find an[01 FF]  academic researcher inside.[02 FF][1C FF 49 00 _L3145_][6E FF 01 00]^L3145^[08 FF 00 03][00 FF]
+^L648^[1C FF 02 00 _L3146_][1C FF D7 00 _L3147_]@I'm so happy there are some[01 FF]  visitors today.[1B FF 0F 00]  These days,[01 FF]  few people come here.[02 FF]@...I'm Mr. Spoon, the academic[01 FF]  researcher.[02 FF][1B FF 3C 00]@I wonder if there are any[01 FF]  famous stars here today?[02 FF][1B FF 3C 00]@Dinosaurs...[02 FF]@Huge,[1B FF 0F 00] aren't they?[1B FF 14 00]  Well, that's[01 FF]  all I've gotten out of my[01 FF]  research![02 FF]@You wanna hear more?[02 FF]@(Whispering) To tell you the[01 FF]  truth...[02 FF]@I heard that dinosaurs were[01 FF]  found near the lower side of[01 FF]  Scaraba,[02 FF]@and there were lots of them.[02 FF]@There are unconfirmed reports[02 FF]@that the dinosaurs ate some of[01 FF]  the natives there.[02 FF]@If you go,[1B FF 0F 00] please try to find the[01 FF]  dinosaurs and bring back[01 FF]  photographs.[02 FF][80 FF _L3146_]
 ^L649^[1C FF DC 00 _L3149_][80 FF _L3146_]
-^L650^
-^L651^
-^L652^
+^L650^@...I wonder how many animals[01 FF]  go extinct before human beings[01 FF]  discover them.[02 FF]@I wanna see a live dinosaur[01 FF]  sometime in my life.[1D FF][00 FF]
+^L651^@Huge!...[02 FF]@Not you,[1B FF 0F 00] I'm talking about the[01 FF]  dinosaur bones.[1D FF][00 FF]
+^L652^@This museum should sell[01 FF]  dinosaur t-shirts.[1D FF][00 FF]
 ^L653^[86 FF _L3150_][00 FF]
 ^L654^[08 FF E6 00][86 FF _L5392_][09 FF E6 00][00 FF]
 ^L655^[86 FF _L3151_][00 FF]
-^L656^
-^L657^
-^L658^
+^L656^@One person requested a[01 FF]  <shampoo and cut.>[02 FF]@They must have thought that a[01 FF]  <bad hair day> could be treated[01 FF]  at the hospital.[02 FF]@Either that or they wanted their[01 FF]  medical insurance to cover[01 FF]  their grooming.[1D FF][00 FF]
+^L657^@I'm just enjoying being with[01 FF]  my grandchildren.[02 FF]@I'll be better soon.[02 FF]@Do you have grandchildren?[03 FF 00 00][04 FF _L4031_][05 FF _L4032_]^L4032^@Yes, yes... you seem  a little[01 FF]  young for that...[1D FF][00 FF]^L4031^@Oh?[02 FF]@At your age?[02 FF]@Oh... the youth of today shock[01 FF]  me...[02 FF]@My lands...[1D FF][00 FF]
+^L658^@Grandma's gonna get better,[01 FF]  huh.[1D FF][00 FF]
 ^L659^[86 FF _L2567_][00 FF]
 ^L660^
 ^L661^[86 FF _L3157_][00 FF]
@@ -1002,12 +1002,12 @@
 ^L1004^[1C FF A5 00 _L3436_]@The Mani Mani Statue is up[01 FF]  ahead,[1B FF 0F 00] but I'm going to stop you[01 FF]  right here.[02 FF]@Don't even think about getting[01 FF]  past me,[02 FF]@'cause you aren't with a guy[02 FF]@whose eyebrows are connected[01 FF]  and who also has a gold tooth.[1D FF][08 FF 06 03][00 FF]
 ^L1005^@Hello![02 FF]@And...[1B FF 14 00] good-bye![02 FF][C6 FF][1B FF 01 00][D4 FF 81 00][14 FF 37 00][00 FF]
 ^L1006^@Hello![02 FF]@And...[1B FF 14 00] good-bye![02 FF][C6 FF][1B FF 01 00][D4 FF 81 00][14 FF 39 00][00 FF]
-^L1007^
-^L1008^
-^L1009^
-^L1010^
-^L1011^
-^L1012^
+^L1007^@Hello![02 FF]@And...[1B FF 14 00] good-bye![02 FF][C6 FF][1B FF 01 00][D4 FF 81 00][14 FF 3B 00][00 FF]
+^L1008^@Hello![02 FF]@And...[1B FF 14 00] good-bye![02 FF][C6 FF][1B FF 01 00][1C FF 06 03 _L3415_][D4 FF 81 00][14 FF 39 00][00 FF]
+^L1009^@Hello![02 FF]@And...[1B FF 14 00] good-bye![02 FF][C6 FF][1B FF 01 00][D4 FF 81 00][14 FF 3C 00][00 FF]
+^L1010^@Hello![02 FF]@And...[1B FF 14 00] good-bye![02 FF][C6 FF][1B FF 01 00][D4 FF 81 00][14 FF 3D 00][00 FF]
+^L1011^@<Hotel Dark Moon>[02 FF]@75 dollars for one sleep period[01 FF]  for a single room.[1D FF][00 FF]
+^L1012^@(It is a golden statue that you[01 FF]  have seen before.)[02 FF][86 FF _L3437_][81 FF _L2161_][1B FF 01 00][86 FF _L2200_][08 FF 3B 00][08 FF 4B 00][14 FF 41 00][FC FF 05 00][EA FF FF 00][1B FF 14 00]^L646^@(The Mani Mani statue was[01 FF]  actually a device that created[01 FF]  illusions.[02 FF]@The illusion device was[01 FF]  destroyed.)[1D FF][C6 FF][7E FF 05 00][EB FF FF 00][00 FF]
 ^L1013^[08 FF E2 00][86 FF _L5487_][09 FF E2 00][00 FF]
 ^L1014^[08 FF E3 00][86 FF _L5487_][09 FF E3 00][00 FF]
 ^L1015^[08 FF E5 00][86 FF _L5487_][09 FF E5 00][00 FF]
@@ -1051,28 +1051,28 @@
 ^L1053^[88 FF][1C FF 9B 00 _L2288_][89 FF][AB FF 00 00][87 FF][9A FF D1 00][81 FF _L3361_][80 FF _L2288_]
 ^L1054^[00 FF]
 ^L1055^[AB FF 00 00][87 FF][88 FF][9A FF 96 00][81 FF _L4001_][89 FF][9A FF AA 00][82 FF _L2288_]@Do you really think this looks[01 FF]  like a pencil?[1D FF][00 FF]
-^L1056^[86 FF _L3925_] each enemy about 50[01 FF]  points of damage.[00 FF]
-^L1057^[86 FF _L3925_] each enemy about 180[01 FF]  points of damage.[00 FF]
-^L1058^[86 FF _L3925_] each enemy about 320[01 FF]  points of damage.[00 FF]
-^L1059^[86 FF _L3925_] each enemy about 640[01 FF]  points of damage.[00 FF]
-^L1060^[86 FF _L3926_] about 80 points of damage each.[00 FF]
-^L1061^[86 FF _L3926_] about 160 points of damage each.[00 FF]
-^L1062^[86 FF _L3926_] about 240 points of damage each.[00 FF]
-^L1063^[86 FF _L3926_] about 320 points of damage each.[00 FF]
-^L1064^[86 FF _L3927_] inflicting about 180 points of damage.[01 FF][86 FF _L3928_][86 FF _L3929_][00 FF]
-^L1065^[86 FF _L3927_] inflicting about 360 points of damage.[01 FF][86 FF _L3928_][86 FF _L3929_][00 FF]
-^L1066^[86 FF _L3927_] inflicting about 540 points of damage.[01 FF][86 FF _L3928_][86 FF _L3929_][00 FF]
-^L1067^[86 FF _L3927_] inflicting about 720 points of damage.[01 FF][86 FF _L3928_][86 FF _L3929_][00 FF]
-^L1068^@The enemy is thunder struck for about 120[01 FF]  points of damage.[01 FF][86 FF _L3930_][00 FF]
-^L1069^@The enemy is thunder struck for about 120[01 FF]  points of damage two separate times.[01 FF][86 FF _L3930_][00 FF]
-^L1070^@The enemy is thunder struck for about 200[01 FF]  points of damage three separate times.[01 FF][86 FF _L3930_][00 FF]
-^L1071^@The enemy is thunder struck for about 200[01 FF]  points of damage four separate times.[01 FF][86 FF _L3930_][00 FF]
-^L1072^[86 FF _L3931_][86 FF _L3932_], and in some[01 FF]  circumstances, feel strange.[00 FF]
-^L1073^[86 FF _L3931_][86 FF _L3932_], and in some[01 FF]  circumstances, can make the enemy feel strange,[01 FF]  become numb, or even be destroyed.[00 FF]
-^L1074^[86 FF _L3931_][86 FF _L3932_].[01 FF]@Often, it will destroy an enemy in a single strike.[00 FF]
+^L1056^[86 FF _L3989_] each enemy about 50[01 FF]  points of damage.[00 FF]
+^L1057^[86 FF _L3989_] each enemy about 180[01 FF]  points of damage.[00 FF]
+^L1058^[86 FF _L3989_] each enemy about 320[01 FF]  points of damage.[00 FF]
+^L1059^[86 FF _L3989_] each enemy about 640[01 FF]  points of damage.[00 FF]
+^L1060^[86 FF _L3990_] about 80 points of damage each.[00 FF]
+^L1061^[86 FF _L3990_] about 160 points of damage each.[00 FF]
+^L1062^[86 FF _L3990_] about 240 points of damage each.[00 FF]
+^L1063^[86 FF _L3990_] about 320 points of damage each.[00 FF]
+^L1064^[86 FF _L3991_] inflicting about 180 points of damage.[01 FF][86 FF _L3992_][86 FF _L3993_][00 FF]
+^L1065^[86 FF _L3991_] inflicting about 360 points of damage.[01 FF][86 FF _L3992_][86 FF _L3993_][00 FF]
+^L1066^[86 FF _L3991_] inflicting about 540 points of damage.[01 FF][86 FF _L3992_][86 FF _L3993_][00 FF]
+^L1067^[86 FF _L3991_] inflicting about 720 points of damage.[01 FF][86 FF _L3992_][86 FF _L3993_][00 FF]
+^L1068^@The enemy is thunder struck for about 120[01 FF]  points of damage.[01 FF][86 FF _L3994_][00 FF]
+^L1069^@The enemy is thunder struck for about 120[01 FF]  points of damage two separate times.[01 FF][86 FF _L3994_][00 FF]
+^L1070^@The enemy is thunder struck for about 200[01 FF]  points of damage three separate times.[01 FF][86 FF _L3994_][00 FF]
+^L1071^@The enemy is thunder struck for about 200[01 FF]  points of damage four separate times.[01 FF][86 FF _L3994_][00 FF]
+^L1072^[86 FF _L3995_][86 FF _L3996_], and in some[01 FF]  circumstances, feel strange.[00 FF]
+^L1073^, and in some[01 FF]  circumstances, can make the enemy feel strange,[01 FF]  become numb, or even be destroyed.[00 FF]
+^L1074^[86 FF _L3995_][86 FF _L3996_].[01 FF]@Often, it will destroy an enemy in a single strike.[00 FF]
 ^L1075^@It generates glorious rays that have a high[01 FF]  probability of destroying all the enemies on the[01 FF]  scene in a single strike.[00 FF]
-^L1076^[86 FF _L3933_][01 FF]@It deals about 360 points of damage to each[01 FF]  enemy.[00 FF]
-^L1077^[86 FF _L3933_][01 FF]@It deals about 720 points of damage to each[01 FF]  enemy.[00 FF]
+^L1076^[86 FF _L3997_][01 FF]@It deals about 360 points of damage to each[01 FF]  enemy.[00 FF]
+^L1077^[86 FF _L3997_][01 FF]@It deals about 720 points of damage to each[01 FF]  enemy.[00 FF]
 ^L1078^@Restores 100 HP to one person.[00 FF]
 ^L1079^@Restores 300 HP to one person.[00 FF]
 ^L1080^@Completely restores the HP of one person.[00 FF]
@@ -1081,14 +1081,14 @@
 ^L1083^@In addition to the effects of Healing [8B], this cures[01 FF]  poisonings, nausea, feeling strange and[01 FF]  uncontrollable crying.[00 FF]
 ^L1084^@In addition to the effects of Healing [8C], this cures[01 FF]  being diamondized and paralysis.[01 FF]@It also revives a friend who has become[01 FF]  unconscious, though HP is not maxed out.[00 FF]
 ^L1085^@In addition to the effects of Healing [8D], this[01 FF]  revives a friend who has become unconscious,[01 FF]  and it completely maxes out that person's HP[01 FF]  when revived.[00 FF]
-^L1086^@Protect one person with the shield of light.[01 FF][86 FF _L3934_][86 FF _L3935_][00 FF]
-^L1087^@Protect everyone with the shield of light.[01 FF][86 FF _L3934_][86 FF _L3935_][00 FF]
+^L1086^@Protect one person with the shield of light.[01 FF][86 FF _L3998_][86 FF _L3999_][00 FF]
+^L1087^@Protect everyone with the shield of light.[01 FF][86 FF _L3998_][86 FF _L3999_][00 FF]
 ^L1088^@Protects one person with a power shield.[01 FF][00 FF]
-^L1089^@Protects everyone with a power shield.[01 FF][86 FF _L3936_][86 FF _L3935_][00 FF]
-^L1090^@Protects one person with a psychic shield.[01 FF][86 FF _L3937_][86 FF _L3935_][00 FF]
-^L1091^@Protects everyone with a psychic shield.[01 FF][86 FF _L3937_][86 FF _L3935_][00 FF]
-^L1092^@Protects one person with a psychic power shield.[01 FF][86 FF _L3938_][86 FF _L3935_][00 FF]
-^L1093^@Protects everyone with a psychic power shield.[01 FF][86 FF _L3938_][86 FF _L3935_][00 FF]
+^L1089^@Protects everyone with a power shield.[01 FF][86 FF _L4000_][86 FF _L3999_][00 FF]
+^L1090^@Protects one person with a psychic shield.[01 FF][86 FF _L4001_][86 FF _L3999_][00 FF]
+^L1091^@Protects everyone with a psychic shield.[01 FF][86 FF _L4001_][86 FF _L3999_][00 FF]
+^L1092^@Protects one person with a psychic power shield.[01 FF][86 FF _L4002_][86 FF _L3999_][00 FF]
+^L1093^@Protects everyone with a psychic power shield.[01 FF][86 FF _L4002_][86 FF _L3999_][00 FF]
 ^L1094^@Increase one person's Offense[01 FF]  for the duration of the current battle.[01 FF][86 FF _L3939_][00 FF]
 ^L1095^@Increase everyone's Offense for the[01 FF]  duration of the current battle.[01 FF][86 FF _L3939_][00 FF]
 ^L1096^@Decreases the Defense of one enemy[01 FF]  for the duration of the current battle.[01 FF][86 FF _L3939_][00 FF]
@@ -1853,7 +1853,7 @@
 ^L1856^[1C FF 5E 01 _L5629_][00 FF]
 ^L1857^[00 FF]
 ^L1858^[00 FF]
-^L1859^
+^L1859^[1C FF B0 01 _L5453_]@No problem here.[1D FF][00 FF]
 ^L1860^[1C FF 04 03 _L2214_][1C FF 49 00 _L5152_][A8 FF 01][8A FF][8D FF 01 00][9A FF 01 00][81 FF _L5153_]@Hello?[02 FF]@...Is that you, [0D FF][1B FF 0A 00]?[02 FF]@Why are you disguising your[01 FF]  voice like that?[02 FF]@Who are you pretending to be?[02 FF]@Oh, well.  It's not a big deal.[02 FF]@I suppose you need to have a[01 FF] sense of humor at a time like[01 FF]  this.[02 FF][80 FF _L5154_]
 ^L1861^
 ^L1862^[1C FF 02 03 _L2214_][1C FF 49 00 _L5169_][1C FF B5 00 _L5170_][1C FF 85 02 _L5170_][1C FF B6 02 _L5170_][1C FF B7 02 _L5170_][86 FF _L3541_][81 FF _L5170_][1C FF B4 02 _L5171_][1C FF B5 02 _L5172_][86 FF _L5173_]^L5258^[86 FF _L5174_][03 FF 11 00][04 FF _L5175_][05 FF _L5176_]^L5182^[86 FF _L5177_][86 FF _L5178_][00 FF]^L5175^[F4 FF 01 00 01 00][DD FF 02 00 00 00 00 00 00 00][81 FF _L5179_][86 FF _L5180_][08 FF 85 02][CF FF 03 00][86 FF _L5178_][08 FF F2 02][00 FF]
@@ -2188,6 +2188,26 @@
 ^L2197^[00 FF]
 ^L2198^
 ^L2199^
+^L2200^
+^L2201^
+^L2202^
+^L2203^
+^L2204^
+^L2205^
+^L2206^
+^L2207^
+^L2208^
+^L2209^
+^L2210^
+^L2211^
+^L2212^
+^L2213^
+^L2214^
+^L2215^
+^L2216^
+^L2217^
+^L2218^
+^L2219^
 ^L2200^[09 FF B4 00][09 FF B5 00][09 FF 85 02][09 FF BE 01][09 FF 86 02][09 FF 87 02][09 FF 88 02][09 FF B6 02][09 FF B7 02][86 FF _L4002_][09 FF F2 02][FC FF 3A 00][00 FF]
 ^L2201^[6B FF 03 00][1B FF B4 00][74 FF][00 FF]
 ^L2202^
@@ -2315,7 +2335,13 @@
 ^L2371^[C6 FF][A7 FF C0 01][00 FF]
 ^L2372^[C6 FF][A7 FF C1 01][00 FF]
 ^L2373^
-^L2380^
+^L2374^
+^L2375^
+^L2376^
+^L2377^
+^L2378^
+^L2379^
+^L2380^@Only [0D FF] can absorb[01 FF]  the power of this place.[1D FF][00 FF]
 ^L2381^[C6 FF][A7 FF C2 01][00 FF]
 ^L2382^[00 FF]
 ^L2383^
@@ -2806,52 +2832,53 @@
 ^L2877^[08 FF F7 00][08 FF 90 02][86 FF _L4326_][09 FF F7 00][09 FF 90 02][00 FF]
 ^L2878^
 ^L2879^
-^L2880^
+^L2880^@Healthful[01 FF]  and dandy![1D FF][7C FF][00 FF]
 ^L2881^
 ^L2882^
-^L2884^
+^L5068^[9B FF 00 00 00 00][9C FF][D4 FF 76 00]@Healthful[01 FF]  and dandy![1D FF]^L2883^[C6 FF][1B FF 01 00][08 FF 7F 01][6B FF 03 00][A0 FF D0 07 13 00 01 00][9E FF]^L3999^[1C FF 7A 02 _L5121_][1C FF 7B 02 _L5122_][1C FF 7C 02 _L5123_][1C FF 7C 00 _L5124_][86 FF _L2192_]^L5124^[00 FF]
+^L2884^[7B FF][1C FF 02 00 _L5058_]@I'm[01 FF]  Dr. Saturn.[01 FF]  Zoom![02 FF]@and I can[01 FF]  repair[01 FF]  your body.[02 FF]@Boing![02 FF]@Do you[01 FF]  want me[02 FF]@to operate[01 FF]  on you?[01 FF]  Ding?[7C FF][86 FF _L2485_][04 FF _L5059_][05 FF _L5060_]^L5060^[7B FF]@Are you[01 FF]  kay-o?[02 FF]@If you[01 FF]  all right,[01 FF]  that's great.[02 FF]@zoomer![1D FF][7C FF][00 FF]
 ^L2885^[08 FF F8 00][86 FF _L4325_][09 FF F8 00][00 FF]
-^L2886^
-^L2887^
-^L2888^
-^L2889^
-^L2890^
-^L2891^
-^L2892^
-^L2893^
-^L2894^
-^L2895^
+^L2886^@I do[01 FF]  What I say...[02 FF]@Cross heart...[1D FF][7C FF][00 FF]
+^L2887^@Impressed![02 FF]@Someday,[01 FF]  Sometime[01 FF]  We help you.[1D FF][7C FF][00 FF]
+^L2888^@Zoom![1D FF][7C FF][00 FF]
+^L2889^@Delicious.[01 FF][8D FF 01 00][87 FF] [90 FF 00][1A FF 01 00]![02 FF]@You[01 FF]  good name.[02 FF]@We no name![01 FF]  Boing![02 FF]@...All have[01 FF]  same name![1D FF][7C FF][00 FF]
+^L2890^@Sweet fresh[01 FF]  feel.[1D FF][7C FF][00 FF]
+^L2891^[83 FF 75 02][82 FF _L2890_]@Go in hot[01 FF]  spring.[02 FF]@Wash[01 FF]  barf off[01 FF]  you body![1D FF][7C FF][00 FF]
+^L2892^@Eureka![01 FF]  Ding![1D FF][7C FF][00 FF]
+^L2897^[89 FF][93 FF 00 95][AB FF 00 00][08 FF AD 00]@I no hand you[02 FF]@my[01 FF]  [90 FF 00][1A FF 02 00]...[02 FF]@Oh![01 FF]  Tease you![02 FF][D4 FF 74 00]^L2893^@I have no[01 FF]  something.[7C FF][1D FF][00 FF]
+^L2894^@Here is[01 FF]  present.[02 FF]^L2899^[91 FF FF][82 FF _L2896_][88 FF][1C FF AC 00 _L2897_][1C FF AB 00 _L2898_][89 FF][93 FF 00 8A][AB FF 00 00][08 FF AB 00]@I hand you[01 FF]  [90 FF 00][1A FF 02 00].[02 FF][D4 FF 74 00][80 FF _L2899_]
+^L2896^@You no room.[01 FF]  Bye later!^L2895^[7C FF][1D FF][00 FF]
 ^L2896^
 ^L2897^
 ^L2898^
 ^L2899^
-^L2900^
-^L2901^
-^L2902^
-^L2903^
-^L2904^
-^L2905^
-^L2906^
-^L2907^
-^L2908^
+^L2900^@Make[01 FF]  new thing![02 FF]@Must make![01 FF]  Daddy![01 FF]  Boing![1D FF][7C FF][00 FF]
+^L2901^@No scared.[1D FF][7C FF][00 FF]
+^L2902^@Dakota![1D FF][7C FF][00 FF]
+^L2903^@All home![01 FF]  Zoom![1D FF][7C FF][00 FF]
+^L2904^@Healthfull![1D FF][7C FF][00 FF]
+^L2905^@Dance is over...[1D FF][7C FF][00 FF]
+^L2906^@Appreciate![1D FF][7C FF][00 FF]
+^L2907^@I wish[01 FF]  fall in[01 FF]  love...[1D FF][7C FF][00 FF]
+^L2908^@You wait three[01 FF]  minutes![02 FF]@Zoom![02 FF]@You come[01 FF]  here to[01 FF]  wait[02 FF]@three[01 FF]  minutes?[01 FF]  No?[1D FF][7C FF][00 FF]
 ^L2909^
 ^L2910^
 ^L2911^[6B FF 02 00][1B FF 1E 00][74 FF][00 FF]
-^L2912^
-^L2913^
+^L2912^@Appreciate![02 FF]@I so happy,[01 FF]  happy,[01 FF]  happy...[02 FF]@Zoom![1D FF][7C FF][00 FF]
+^L2913^@The chance of Giygas gaining[01 FF]  victory with his monstrous plan[01 FF]  is 99%.[02 FF]@However, your courage has[01 FF]  produced a 1% chance that[01 FF]  Giygas fails.[02 FF]@I must try to come to a deeper[01 FF]  understanding of this trait[01 FF]  called <courage.>[1D FF][00 FF]
 ^L2914^[1C FF A9 00 _L2915_][80 FF _L2916_]
 ^L2915^
-^L2916^
-^L2917^
-^L2918^
+^L2916^@Excellent, excellent![01 FF]  Everything proceeded as[01 FF]  planned.[02 FF]@Dr. Andonuts, Mr. Saturn and I[01 FF]  worked together[02 FF]@and finally completed the[01 FF]  Phase Distorter.[02 FF]@The purpose of the device is to[01 FF]  enable instantaneous travel[02 FF]@through space and time.[02 FF]@In this prototype, you can only[01 FF]  travel to different points[02 FF]@within the same time period.[02 FF]@It is able, however, to search[01 FF]  out the locations of enemies.[02 FF]@Right now, it is indicating the[01 FF]  presence of enemies in the[01 FF]  Lost Underworld![1D FF][00 FF]
+^L2917^@It's a miracle![02 FF]@A miracle that has only[01 FF]  happened because of your great[01 FF]  courage![02 FF]@...Believe me,[1B FF 0F 00] I went through a[01 FF]  lifetime's worth of stress while[01 FF]  you were gone...[02 FF]@I just wish I could have come[01 FF]  with you as a robot.[02 FF]@I should have used the Phase[01 FF]  Distorter.[02 FF]@What a story that would have[01 FF]  been...[02 FF]@<Scientist and four kids save[01 FF]  the world!>[1B FF 1E 00]  Wah ha ha ha ha![1D FF][00 FF]
+^L2918^@Finally, it's complete! [02 FF]@The Phase Distorter, version two,[02 FF]@[1B FF 0F 00] is equipped with two new features.[02 FF]@First,[1B FF 14 00] it can repair your biological functions.[02 FF]@Second,[1B FF 14 00] it can save your progress.[02 FF]@Don't be afraid, get right in![02 FF]@...There is just one thing, though...[02 FF]@You might not be able to return.[10 14]  So, make sure you are optimally outfitted.[02 FF]@Are you ready to go?[00][19 02]Yes[02][19 02]No[02][1C 07 02][11][12][09 02 _L3976_ _L3976_]^L3976^@Even if you're not 100%,[1B FF 0F 00] perfectly,[1B FF 0F 00] completely ready...[02 FF]@Well, you should be as prepared as possible.[1B FF 14 00]  It would be for the best.[02 FF]@Without careful preparation, you would be in big trouble.[02 FF]@I just want to make sure you're ready.[02 FF]@Let me know when your preparations are complete.[1D FF][08 FF 85 00][A1 FF E5 02 4F 02][00 FF]
 ^L2919^
-^L2920^
-^L2921^
+^L2920^@Hmmmm...[02 FF]@If I only had a piece of a[01 FF]  meteorite,[02 FF]@I might be able to extract some[01 FF]  Zexonyte.[1D FF][00 FF]
+^L2921^[6D FF FF 00 8C 00][D4 FF 76 00]@Ah, yes![1B FF 0F 00][01 FF]  This is fantastic![1B FF 1E 00][01 FF]  What?[02 FF]@Well, I've never actually seen[01 FF]  this incredibly rare element[01 FF]  before...[02 FF]@It is very intriguing.[02 FF]@All right, leave everything to[01 FF]  us, and you get some rest.[02 FF]@This is getting most[01 FF]  fascinating![1D FF][08 FF 86 00][08 FF A9 00][00 FF]
 ^L2922^
 ^L2923^
 ^L2924^
-^L2925^
-^L2926^
+^L2925^@Incredible![1B FF 14 00][01 FF]  Excellent![02 FF]@I'm not quite sure what for, but[01 FF]  congratulations on a job well[01 FF]  done![02 FF]@If we ever have the chance to[01 FF]  get together again,[02 FF]@let's go on a picnic or[01 FF]  something.[02 FF]@Maybe we could play[01 FF]  horseshoes, too![1D FF][00 FF]
+^L2926^[1C FF 9C 02 _L2927_]@I'm not sure what will happen,[01 FF]  but I sense big-time trouble[01 FF]  ahead for you.[02 FF]@I'm going to stay here for a[01 FF]  while and help Mr. Saturn.[02 FF]@It's important for a man to[01 FF]  enjoy doing his duty.[1D FF][00 FF]
 ^L2927^
 ^L2928^
 ^L2929^
@@ -2862,30 +2889,30 @@
 ^L2934^
 ^L2935^
 ^L2936^
-^L2937^
-^L2938^
+^L2937^[02 FF]@Buuurp![01 FF]  Barf![02 FF]@Stinky![01 FF]  Peeee-[01 FF]  yeuuu![1D FF][7C FF][00 FF]
+^L2938^@Bell rings[01 FF]  ding, ding.  Boing![1D FF][7C FF][00 FF]
 ^L2939^
 ^L2940^
 ^L2941^[BC FF 01 00]^L5391^[A8 FF 01][96 FF 00][81 FF _L5389_][8D FF 00 00][88 FF][92 FF 00 01 02][82 FF _L5390_][89 FF][EE FF 00 00 01 00 01 00][87 FF][F7 FF 00 00 64 00][F8 FF 00 00 64 00]^L5390^[89 FF][EE FF 00 00 01 00 01 00][EE FF 00 00 02 00 01 00][EE FF 00 00 06 00 01 00][D4 FF 25 00][C0 FF][80 FF _L5391_]
 ^L2942^
 ^L2943^[08 FF FB 00][86 FF _L4325_][09 FF FB 00][00 FF]
-^L2944^
-^L2945^
-^L2946^
-^L2947^
-^L2948^
-^L2949^
-^L2950^
+^L2944^[EA FF FF 00][91 FF FF][82 FF _L2945_]@Here, I'll give you this now...[01 FF]  for sure.[02 FF][91 FF FF][82 FF _L2945_][01 FF][93 FF 00 A8][08 FF 5A 00][09 FF F5 02][86 FF _L2238_][1D FF][C6 FF][EB FF FF 00][00 FF]
+^L2945^@Come on![1B FF 14 00]  You haven't got[01 FF]  room again![02 FF]@Please take care of it right[01 FF]  away.[1D FF][C6 FF][EB FF FF 00][00 FF]
+^L2946^[02 FF]@(Thank you, I found them.[1B FF 14 00][01 FF]  Thanks again for all your help.)[1D FF][00 FF]
+^L2947^@If we could just find a diamond[01 FF]  even...[02 FF]@It's a shame that a digger like[01 FF]  me can't find buried gold.[02 FF]@I'll try even harder.^L2952^[1D FF][00 FF]
+^L2948^@You've gotten rid of the[01 FF]  monster?![02 FF]@Good job.[02 FF]@Ok, from here on, just let me[01 FF]  dig...[1B FF 0F 00]  You'll see,[1B FF 0F 00] I'll find the[01 FF]  buried gold![02 FF]@Before I start digging I'm going[01 FF]  to set a careful plan of action...[1D FF][08 FF 10 01][08 FF 37 00][00 FF]
+^L2949^@I'm still hard at work digging[01 FF]  and digging.[1B FF 14 00]  Hey, wait a[01 FF]  second.[80 FF _L2952_]
+^L2950^@Seems like you have a lot of[01 FF]  stuff.[02 FF]@What are you gonna give me?[02 FF][69 FF][86 FF _L2489_][82 FF _L2951_][88 FF][AB FF 00 00][97 FF 03][82 FF _L2953_][89 FF][B9 FF 00 00 00 00][D4 FF 76 00]@Thank you.[1B FF 14 00]  If I find the gold,[01 FF]  I'll give it to you.[1D FF][08 FF 89 00][08 FF 37 00][08 FF 36 00][1C FF 5F 02 _L2954_][00 FF]
 ^L2951^
 ^L2952^
-^L2953^
+^L2953^@Come on![1B FF 14 00]  I can't eat this![02 FF][00 FF]
 ^L2954^[08 FF 60 02][00 FF]
-^L2955^
+^L2955^@They only found a diamond...[1B FF 0F 00][01 FF]  well,[1B FF 0F 00] you take what you get...[1D FF][00 FF]
 ^L2956^[8D FF 01 00][C3 FF 00 02 0B 03][87 FF][88 FF][9A FF 01 00][81 FF _L2957_][89 FF][9A FF 02 00][81 FF _L2957_][89 FF][9A FF 08 00][81 FF _L2957_][80 FF _L2958_]
-^L2957^
-^L2958^
+^L2957^@(I'm a broken slot machine.[02 FF]@But, the Sanchez Brothers and[01 FF]  their friend are a very cheerful[01 FF]  trio...[02 FF]@they will make you happy.)[02 FF]@(Would you like to insert a[01 FF]  buck?)[22 FF][86 FF _L2492_][04 FF _L2959_][05 FF _L2960_][80 FF _L2960_]
+^L2958^@(I'm a slot machine.[1B FF 14 00]  Can you[01 FF]  talk to me from the front[01 FF]  side?)[1D FF][00 FF]
 ^L2959^[99 FF 01 00 00 00][81 FF _L2961_][1B FF 01 00][9B FF 01 00 00 00][9C FF][86 FF _L2962_][00 FF]
-^L2960^
+^L2960^@(Okay...)[1D FF][00 FF]
 ^L2961^
 ^L2962^[C6 FF][1B FF 02 00][A1 FF FD 02 1C 02][1B FF 02 00][A1 FF FE 02 1D 02][1B FF 02 00][A1 FF FF 02 1E 02][1B FF 78 00][1B FF 78 00][A1 FF FD 02 1F 02][9E FF][1C FF 0A 02 _L2963_][1C FF 0B 02 _L2964_][80 FF _L2965_]
 ^L2963^[1C FF 0B 02 _L2966_][80 FF _L2967_]
@@ -2905,9 +2932,9 @@
 ^L2978^[1C FF 0B 02 _L2979_][80 FF _L2974_]
 ^L2979^
 ^L2980^
-^L2981^
-^L2982^
-^L2983^
+^L2981^[02 FF]@(What?[1B FF 14 00]  The white sesame[01 FF]  still... loves me?!  Weep,[01 FF]  weep...)[1D FF][C6 FF][08 FF 87 00][1C FF C6 02 _L2197_][1B FF 3C 00][86 FF _L1671_][00 FF]
+^L2982^[02 FF]@(Really?[1B FF 14 00]  You've seen him[01 FF]  already?  Was he okay?[1B FF 14 00][01 FF]  ...Hmmm, I see.)[1D FF][08 FF 8A 00][00 FF]
+^L2983^[01 FF]@You have no more room.[1D FF][00 FF]
 ^L2984^[08 FF FE 00][08 FF 90 02][86 FF _L4325_][09 FF FE 00][09 FF 90 02][00 FF]
 ^L2985^
 ^L2986^
@@ -2928,6 +2955,7 @@
 ^L3001^
 ^L3002^
 ^L3003^
+^L3004^
 ^L3005^[86 FF _L2911_][C5 FF][00 FF]
 ^L3006^[00 FF]
 ^L3007^[08 FF 09 02][00 FF]
@@ -2937,8 +2965,8 @@
 ^L3011^
 ^L3012^
 ^L3013^[AB FF 00 00][87 FF][A8 FF 00][9A FF 7C 00][81 FF _L3051_][87 FF][9A FF 7D 00]^L3051^[00 FF]
-^L3014^
-^L3015^
+^L3014^@Kikki[02 FF]@(Hee he he)[1D FF][00 FF]
+^L3015^[86 FF _L2489_][82 FF _L3016_][88 FF][AB FF 00 00][87 FF][9A FF 64 00][82 FF _L3016_][89 FF][B9 FF 00 00 00 00][D4 FF 76 00][1B FF 0A 00]@Kikie![02 FF]@(Great!)[1D FF][C6 FF][85 FF 1F 03 06 00][84 FF 21 03 0D 00 01 00][08 FF C4 01][00 FF]
 ^L3016^
 ^L3017^
 ^L3018^
@@ -2972,6 +3000,9 @@
 ^L3046^
 ^L3047^
 ^L3048^
+^L3049^
+^L3050^
+^L3051^
 ^L3052^
 ^L3053^
 ^L3054^
@@ -2979,8 +3010,8 @@
 ^L3056^
 ^L3057^@Kyakya kyekyi?[02 FF]@(So... how 've you been?)[1D FF][00 FF]
 ^L3058^
-^L3059^
-^L3060^
+^L3059^@Kyai Kyai[02 FF]@(Bye bye.)[1D FF][00 FF]
+^L3060^@(Try again by believing in the[01 FF]  monkey teacher.)[22 FF][03 FF 00 00][04 FF _L3062_][05 FF _L3063_]^L3063^@Kyakyakya[02 FF]@(You don't like the monkey[01 FF] teacher?...)[1D FF][C6 FF][00 FF]^L3060^@uKI?[02 FF]@(What happened to the boy[01 FF]  with the red cap?[02 FF]@I was only going to teach him[01 FF]  something.)[02 FF]@Kyakyo[02 FF]@(He's not here...)[1D FF][00 FF]
 ^L3061^
 ^L3062^
 ^L3063^
@@ -3532,6 +3563,7 @@
 ^L3630^
 ^L3631^
 ^L3632^
+^L3633^
 ^L3634^
 ^L3635^
 ^L3636^
@@ -3716,6 +3748,7 @@
 ^L3824^[BC FF 3E 00][00 FF]
 ^L3825^[BC FF 3F 00][00 FF]
 ^L3826^[BC FF 40 00][00 FF]
+^L3827^
 ^L3828^
 ^L3829^
 ^L3830^
@@ -3812,7 +3845,61 @@
 ^L3922^
 ^L3923^
 ^L3924^
-^L3925^@A deadly PSI attack which only [90 FF 01][1A FF 01 00] can use.[01 FF]@It's a psychokinetic wave generated by[01 FF]  concentration that deals[00 FF]
+^L3925^
+^L3926^
+^L3927^
+^L3928^
+^L3929^
+^L3930^
+^L3931^
+^L3932^
+^L3933^
+^L3934^
+^L3935^
+^L3936^
+^L3937^
+^L3938^
+^L3939^
+^L3940^
+^L3941^
+^L3942^
+^L3943^
+^L3944^
+^L3945^
+^L3946^
+^L3947^
+^L3948^
+^L3949^
+^L3950^
+^L3951^
+^L3952^
+^L3953^
+^L3954^
+^L3955^
+^L3956^
+^L3957^
+^L3958^
+^L3959^
+^L3960^
+^L3961^
+^L3962^
+^L3963^
+^L3964^
+^L3965^
+^L3966^
+^L3967^
+^L3968^
+^L3969^
+^L3970^
+^L3971^
+^L3972^
+^L3973^
+^L3974^
+^L3975^
+^L3976^
+^L3977^
+^L3978^
+^L3979^[86 FF _L984_][00 FF]
 ^L3926^@Fire bursts from the fingers and a row of[01 FF]  enemies take[00 FF]
 ^L3927^@Causes a very cold wind to swirl around one[01 FF] enemy,[00 FF]
 ^L3928^@May freeze the enemy completely.[01 FF][00 FF]
@@ -3873,6 +3960,7 @@
 ^L3983^
 ^L3984^
 ^L3985^
+^L3986^
 ^L3987^[FB FF 19 00][80 FF _L3988_]
 ^L3989^
 ^L3990^
@@ -3944,8 +4032,8 @@
 ^L4065^[C6 FF][A7 FF C3 01][00 FF]
 ^L4066^[C6 FF][A7 FF C4 01][00 FF]
 ^L4067^[8D FF 01 00][C3 FF 00 02 60 01][86 FF _L4074_][00 FF]
-^L4068^
-^L4069^
+^L4068^@Danger![02 FF]@Do not stand in the street.[02 FF]@(Read the schedule from the[01 FF]  sidewalk.)[1D FF][00 FF]
+^L4069^@(It looks like it's going to be a[01 FF]  while before the next bus[01 FF]  comes.)[1D FF][00 FF]
 ^L4070^
 ^L4071^[8D FF 01 00][C3 FF 00 02 3A 02][86 FF _L4073_][00 FF]
 ^L4072^[8D FF 01 00][C3 FF 00 02 44 02][86 FF _L4074_][00 FF]
@@ -3967,7 +4055,7 @@
 ^L4088^
 ^L4089^
 ^L4090^
-^L4091^
+^L4091^@(Due to traffic jams,[1B FF 0F 00] bus[01 FF]  service has been temporarily[01 FF]  suspended.)[1D FF][00 FF]
 ^L4092^[8D FF 01 00][C3 FF 00 02 16 03][86 FF _L4073_][00 FF]
 ^L4093^
 ^L4094^[8D FF 01 00][C3 FF 00 02 17 03][86 FF _L4074_][00 FF]
@@ -4024,8 +4112,8 @@
 ^L4146^
 ^L4147^
 ^L4148^
-^L4149^
-^L4150^
+^L4149^@Greetings, [0D FF]!...[1B FF 14 00][01 FF]   Well,[02 FF]@greetings to you since[01 FF]  [0D FF] isn't here...[02 FF][80 FF _L4151_]
+^L4150^@Hey![1B FF 14 00]  You've got too many[01 FF]  things with you...[02 FF]@Well, I've got to go... I'm busy[01 FF]  working at the other mine...[02 FF]@I'll certainly hang on to your[01 FF]  Diamond.[02 FF]@Come and get it at the treasure[01 FF]  hunter's excavation office.[02 FF][C6 FF][08 FF F5 02][80 FF _L4152_]
 ^L4151^
 ^L4152^
 ^L4153^
@@ -4081,7 +4169,7 @@
 ^L4206^[08 FF 05 00][D4 FF 6C 00][00 FF]
 ^L4207^[1C FF 06 00 _L4200_][1C FF 05 00 _L4208_][80 FF _L4199_]
 ^L4208^[08 FF 06 00][D4 FF 6D 00][00 FF]
-^L4209^[00 FF]
+^L4209^
 ^L4210^[80 FF _L1859_]
 ^L4211^[91 FF FF][82 FF _L4213_][93 FF 00 A9][86 FF _L2238_][1D FF][08 FF 5C 01][1B FF 0A 00][85 FF AB 04 06 00][00 FF]
 ^L4212^
@@ -4165,8 +4253,7 @@
 ^L4291^[1C FF B8 00 _L4292_][00 FF]
 ^L4292^[1C FF BC 00 _L4293_][00 FF]
 ^L4293^[1C FF BD 00 _L4294_][00 FF]
-^L4294^
-[14 FF 8C 00]^L4295^[8D FF 02 00][82 FF _L4304_][A8 FF 00][88 FF][9A FF 10 00][81 FF _L4304_][89 FF][9A FF 11 00][81 FF _L4304_][AF FF 00]^L4304^[00 FF]
+^L4294^[14 FF 8C 00]^L4295^[8D FF 02 00][82 FF _L4304_][A8 FF 00][88 FF][9A FF 10 00][81 FF _L4304_][89 FF][9A FF 11 00][81 FF _L4304_][AF FF 00]^L4304^[00 FF]
 ^L4296^[14 FF 67 00][EA FF FF 00][1B FF 3C 00][86 FF _L4299_][1B FF 3C 00][A1 FF FD 04 4D 02][1B FF 1E 00][B0 FF FE 04 CC 00][B0 FF FF 04 CC 00][B0 FF 00 05 CC 00][1B FF 5A 00][85 FF FD 04 06 00][CC FF FF 00 01 00][1B FF 1E 00][B3 FF FE 04][B3 FF FF 04][B3 FF 00 05][1B FF 5A 00][A1 FF FE 04 4A 02][86 FF _L4300_][A1 FF FF 04 4B 02][86 FF _L4301_][A1 FF 00 05 4C 02][86 FF _L4302_][AE FF 02][CB FF 02 00 06 00][A1 FF FE 04 15 00][9E FF][85 FF FE 04 06 00][CC FF 02 00 01 00][AE FF 03][CB FF 03 00 06 00][A1 FF FF 04 15 00][9E FF][85 FF FF 04 06 00][CC FF 03 00 01 00][AE FF 04][CB FF 04 00 06 00][A1 FF 00 05 15 00][9E FF][85 FF 00 05 06 00][CC FF 04 00 01 00][86 FF _L4303_][00 FF]
 ^L4297^[14 FF 8E 00][EA FF FF 00][1B FF 3C 00][86 FF _L4299_][1B FF 3C 00][A1 FF 5F 04 4D 02][1B FF 1E 00][B0 FF 60 04 CC 00][B0 FF 61 04 CC 00][B0 FF 62 04 CC 00][1B FF 5A 00][85 FF 5F 04 06 00][CC FF FF 00 01 00][1B FF 1E 00][B3 FF 60 04][B3 FF 61 04][B3 FF 62 04][1B FF 5A 00][A1 FF 60 04 4A 02][86 FF _L4300_][A1 FF 61 04 4B 02][86 FF _L4301_][A1 FF 62 04 4C 02][86 FF _L4302_][AE FF 02][CB FF 02 00 06 00][A1 FF 60 04 15 00][9E FF][85 FF 60 04 06 00][CC FF 02 00 01 00][AE FF 03][CB FF 03 00 06 00][A1 FF 61 04 15 00][9E FF][85 FF 61 04 06 00][CC FF 03 00 01 00][AE FF 04][CB FF 04 00 06 00][A1 FF 62 04 15 00][9E FF][85 FF 62 04 06 00][CC FF 04 00 01 00][86 FF _L4303_][00 FF]
 ^L4298^[14 FF 8D 00][EA FF FF 00][1B FF 3C 00][86 FF _L4299_][1B FF 3C 00][A1 FF BC 02 4D 02][1B FF 1E 00][B0 FF BD 02 CC 00][B0 FF BE 02 CC 00][B0 FF BF 02 CC 00][1B FF 5A 00][85 FF BC 02 06 00][CC FF FF 00 01 00][1B FF 1E 00][B3 FF BD 02][B3 FF BE 02][B3 FF BF 02][1B FF 5A 00][A1 FF BD 02 4A 02][86 FF _L4300_][A1 FF BE 02 4B 02][86 FF _L4301_][A1 FF BF 02 4C 02][86 FF _L4302_][AE FF 02][CB FF 02 00 06 00][A1 FF BD 02 15 00][9E FF][85 FF BD 02 06 00][CC FF 02 00 01 00][AE FF 03][CB FF 03 00 06 00][A1 FF BE 02 15 00][9E FF][85 FF BE 02 06 00][CC FF 03 00 01 00][AE FF 04][CB FF 04 00 06 00][A1 FF BF 02 15 00][9E FF][85 FF BF 02 06 00][CC FF 04 00 01 00][86 FF _L4303_][00 FF]
@@ -4937,8 +5024,8 @@
 ^L5086^[86 FF _L5069_][1D FF][00 FF]
 ^L5087^[86 FF _L2185_][80 FF _L5088_]
 ^L5088^[C6 FF][C4 FF 00 2C][08 FF 0B 00][FC FF 05 00][14 FF 18 00][A0 FF D3 07 04 03 01 00][CB FF FF 00 06 00][A0 FF F3 00 C8 00 FF 00][A0 FF F3 00 C9 00 FF 00][EA FF FF 00][1B FF 78 00][1B FF 78 00][1B FF 1E 00][14 FF 19 00][A0 FF F3 00 CA 00 FF 00][A0 FF F3 00 CB 00 FF 00][A0 FF F3 00 CC 00 FF 00][EA FF FF 00][85 FF 18 02 06 00][1B FF 1E 00][1B FF 1E 00][1B FF 78 00][14 FF 1A 00][A4 FF 16 02][A4 FF 17 02][CE FF 16 02 01 00][CE FF 17 02 01 00][EA FF FF 00][1B FF 01 00][A1 FF 16 02 CD 00][A1 FF 17 02 CE 00][1B FF 78 00][1B FF 2D 00][08 FF E4 02][08 FF 6E 01][08 FF D6 00][14 FF 1B 00][A0 FF F3 00 CF 00 FF 00][A0 FF F3 00 D0 00 FF 00][A0 FF F3 00 D1 00 FF 00][A0 FF F3 00 D2 00 FF 00][A0 FF F0 00 D3 00 FF 00][A0 FF F3 00 D4 00 FF 00][EA FF FF 00][1B FF 78 00][1B FF 78 00][1B FF 1E 00][09 FF E4 02][09 FF 6E 01][09 FF D6 00][14 FF 1C 00][CC FF FF 00 01 00][08 FF 2C 01][09 FF 7C 00][08 FF 7D 00][08 FF 05 03][08 FF 0C 03][09 FF 0B 00][FC FF 06 00][A0 FF D3 07 05 03 01 00][EB FF FF 00][00 FF]
-^L5089^
-^L5090^
+^L5089^@When you travel though the[01 FF]  desert, you may be hit by[01 FF]  sunstroke.[02 FF]@If you see flashing lights before[01 FF]  your eyes, you may have[01 FF]  sunstroke![02 FF]@But don't worry too much.[02 FF]@If you have a Wet towel, you'll[01 FF]  be all right.[1D FF][00 FF]
+^L5090^[99 FF 00 00 00 00][81 FF _L5092_][9B FF 00 00 00 00][9C FF][D4 FF 76 00]@Well, have a good rest.  You'll[01 FF]  wake up refreshed![1D FF][86 FF _L2183_][14 FF 8B 00][00 FF]
 ^L5091^
 ^L5092^
 ^L5093^[86 FF _L5070_][00 FF]
@@ -4948,6 +5035,7 @@
 ^L5097^
 ^L5098^[86 FF _L5069_][00 FF]
 ^L5099^
+^L5100^
 ^L5101^
 ^L5102^
 ^L5103^
@@ -5256,7 +5344,9 @@
 ^L5448^
 ^L5449^
 ^L5450^[00 FF]
-^L5453^
+^L5451^
+^L5452^
+^L5453^@SKtPSNDWKWEMS.[1D FF][86 FF _L3698_][00 FF]
 ^L5454^
 ^L5455^
 ^L5456^
@@ -5295,26 +5385,26 @@
 ^L5489^[86 FF _L5499_][00 FF]
 ^L5490^[1C FF E2 00 _L5504_][1C FF E3 00 _L5505_][1C FF E4 00 _L5506_][1C FF E5 00 _L5507_][00 FF]
 ^L5491^[87 FF][82 FF _L5489_][87 FF][BA FF 00 00 00 00][9C FF][86 FF _L5498_][D4 FF 74 00][00 FF]
-^L5492^
+^L5492^@There is a [90 FF 00][1A FF 02 00] inside![02 FF][00 FF]
 ^L5493^[86 FF _L5497_][8F FF][00 FF]
 ^L5494^[86 FF _L5496_][93 FF 00 00][D4 FF 74 00][00 FF]
-^L5495^
-^L5496^
-^L5497^
-^L5498^
+^L5495^@[90 FF 00][1A FF 01 00] takes it.[1D FF][00 FF]
+^L5496^[8D FF 01 00][87 FF]@[90 FF 00][1A FF 01 00] added the[01 FF]  [87 FF] [90 FF 00][1A FF 02 00] to[01 FF]  [89 FF][87 FF] [90 FF 00][1A FF 01 00]'s stuff.[00 FF]
+^L5497^@But, [90 FF 00][1A FF 01 00] has got[01 FF]  too much stuff already.[1D FF][00 FF]
+^L5498^@[C2 FF][1A FF 05 00] got[01 FF]  $[B8 FF 00][1A FF 04 00] dollars.[1D FF][00 FF]
 ^L5499^[1C FF E2 00 _L5508_][1C FF E3 00 _L5509_][1C FF E4 00 _L5510_][1C FF E5 00 _L5511_][00 FF]
-^L5500^
-^L5501^
-^L5502^
-^L5503^
+^L5500^@[90 FF 00][1A FF 01 00] opened the[01 FF]  present.[00 FF]
+^L5501^@[90 FF 00][1A FF 01 00] dug around in[01 FF]  the trash can.[00 FF]
+^L5502^@[90 FF 00][1A FF 01 00] opened the[01 FF]  chest.[00 FF]
+^L5503^@[90 FF 00][1A FF 01 00] opened the[01 FF]  casket.[00 FF]
 ^L5504^[00 FF]
-^L5505^
-^L5506^
-^L5507^
-^L5508^
-^L5509^
-^L5510^
-^L5511^
+^L5505^[1B FF 14 00]@Well, let's see here...[02 FF][00 FF]
+^L5506^[1B FF 14 00]@WHOAAAAAAAAAAH![02 FF][00 FF]
+^L5507^[1B FF 14 00]@TAAAAAH-DAAAAAH![02 FF][00 FF]
+^L5508^@But it was empty.[1D FF][00 FF]
+^L5509^@There was just plain ol' garbage[01 FF]  in the trash can.[1D FF][00 FF]
+^L5510^@But the chest was empty.[1D FF][00 FF]
+^L5511^@But the casket was empty.[1D FF][00 FF]
 ^L5512^[86 FF _L5497_][CE FF 46 02 05 00][00 FF]
 ^L5513^[86 FF _L5496_][93 FF 00 00][D4 FF 74 00][1B FF 1E 00][08 FF 57 00][00 FF]
 ^L5514^[86 FF _L5497_][CE FF E8 02 05 00][00 FF]
